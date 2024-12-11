@@ -1,0 +1,8 @@
+# Ignore artifacts folder
+artifacts/
+
+# Ignore cache folder
+cache/
+
+# Ignore txData folder
+txData/
